@@ -9,7 +9,7 @@ The aim was to try and find a way to use the concept of "Link Prediction" to per
 1. **TFIDF** - Term Frequency Inverse Document Frequency
 2. **Cosine Similarity**
 
-## Steps to execute the codes (and understand the working of the project with the concepts used) - 
+## Steps to execute (and understand the working of the project with the concepts used) - 
 
 1. Download the _*'.json'*_ files.
 2. Run the _*'dataset_formation.py'*_ file.
@@ -22,7 +22,7 @@ The aim was to try and find a way to use the concept of "Link Prediction" to per
    - The passed and failed test cases
    - Accuracy
 
-Visit the _*"mini_project_report_AUG_DEC_2020.pdf"*_ for the detailed report of the mini-project.
+### Visit the _*"mini_project_report_AUG_DEC_2020.pdf"*_ for the detailed report of the mini-project.
 
 ## Datasets:
 
