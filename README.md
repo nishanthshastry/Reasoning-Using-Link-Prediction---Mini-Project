@@ -11,12 +11,15 @@ The aim was to try and find a way to use the concept of "Link Prediction" to per
 
 ## Steps to execute (and understand the working of the project with the concepts used) - 
 
-1. Download the _*'.json'*_ files.
-2. Run the _*'dataset_formation.py'*_ file.
-3. You will observe the _*'final_dataset.csv'*_ file is created.
-4. Run the _*'mini_project_final_code.py'*_ file.
-5. You will observe that two _*'pickle'*_ files will be created - vectorizor and training matrix
-6. In the command prompt or terminal you will observe the following,
+1. The *initial_code_hardcoded_concepts.ipynb* shows the initial work and also the usage of the above listed concepts without the use of any special Python libraries which have the above listed concepts in pre-defined python libraries such as,
+   - **cosine_similarity**
+   - **TfidfVectorizer** 
+2. Download the **'.json'** files.
+3. Run the **'dataset_formation.py'** file.
+4. You will observe the **'final_dataset.csv' file is created.
+5. Run the **'mini_project_final_code.py'** file.
+6. You will observe that two **'pickle'** files will be created - vectorizor and training matrix
+7. In the **command prompt or terminal** you will observe the following,
    - The first 5 rows of the dataset.
    - The total rows of the dataset - Q/A count
    - The passed and failed test cases
