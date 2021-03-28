@@ -1,6 +1,6 @@
 # Reasoning-Using-Link-Prediction---Mini-Project
 
-The aim was to try and find a way to use the concept of "Link Prediction" to perform reasoning between a person(user) and an automated AI to respond in a meaningful manner.
+The aim was to try and find a way to use the concept of _**"Link Prediction"**_ to perform _reasoning_ between a _person(user)_ and an _automated AI_ to respond in a meaningful manner.
 
 **Programming Language** - Python 3
 
@@ -14,7 +14,7 @@ The aim was to try and find a way to use the concept of "Link Prediction" to per
 1. The _**'initial_code_hardcoded_concepts.ipynb'**_ shows the initial work and also the usage of the above listed concepts without the use of any special Python libraries which have the above listed concepts in pre-defined python libraries such as,
    - **cosine_similarity**
    - **TfidfVectorizer** 
-2. Download the **'.json'** files.
+2. Download the _**'.json'**_ files.
 3. Run the _**'dataset_formation.py'**_ file.
 4. You will observe the _**'final_dataset.csv'**_ file is created.
 5. Run the _**'mini_project_final_code.py'**_ file.
